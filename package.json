@@ -1,0 +1,31 @@
+{
+  "name": "roastrecord",
+  "version": "0.0.1",
+  "description": "A little app that acts as a coffee roasting journal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briehl/roastrecord.git"
+  },
+  "keywords": [
+    "coffee",
+    "journal",
+    "react.js",
+    "firebase",
+    "node"
+  ],
+  "author": "Bill Riehl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briehl/roastrecord/issues"
+  },
+  "homepage": "https://github.com/briehl/roastrecord#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
